@@ -1,9 +1,9 @@
 const cacheName = "Arbomeric-ArboTwenty-1.0";
 const contentToCache = [
-    "Build/webglgame.loader.js",
-    "Build/webglgame.framework.js.unityweb",
-    "Build/webglgame.data.unityweb",
-    "Build/webglgame.wasm.unityweb",
+    "Build/webgltest.loader.js",
+    "Build/webgltest.framework.js.unityweb",
+    "Build/webgltest.data.unityweb",
+    "Build/webgltest.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
