@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.45f1
+CRC: 2489314183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66d0ecc571b276a087aeb0b7a455f945
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be1a44d28ffa51c764d54f805a43f6bc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1065fff468c838c232655453a5ffc6ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 12001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdd1d2c48f2634db896bccb35b1f0e37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60ae9f6cb5a9943b4b1e4429cc6a14d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25295d9df686d400083319b50650a701, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3a7cc02cf5ee44f8bdf013b8c3c419b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 880c8401565684c08b496734e79afa1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ce4f1efd76dd41d093258c33f4fa042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af31ed1c389ae4190b79dac762f16ecb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 720b29f905237483083953593721e833, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 600c02144c4813244abd262cbcbe8825, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66564c34b2bb242f684ae382ec5b2222, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e4c6311a07df45e4ad765e2eba3faed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76a1a7262b0044acb8c97da1409d22a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89b7024faa9054eec9aac10eeb439d50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3afc8337caed64f939c7e31c9e651c4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a09ddc5efb7c74342abe7d808b86b2a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c0999942aa994bff9fb2dac333faa80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e8fa695a0f9647f0ad78f9ca525caac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6767a180de870304caa2013b2772dd62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3422db38625547d48df59b8065e6df9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b717a98dcb8b44d25be6a902fc39fb1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e46b85ec18dc34baabc843d2b7245274, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41d0650ecac590e4893db2c863fa6975, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b523b633a6ce497a876024402af70b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7710529711b0d4030a9197c007e5639a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d9b64a2e5e55cc4581e2b3483d7a92d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/SplashScene.unity
+Dependencies: []
